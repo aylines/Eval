@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\2024-2025\\Formation-2024-2025\\Exemple\\InstaWebApp\\InstaWebApp.csproj": {}
+    "F:\\2024-2025\\Eval\\Aspnet\\Eval\\InstaWebApp.csproj": {}
   },
   "projects": {
-    "F:\\2024-2025\\Formation-2024-2025\\Exemple\\InstaWebApp\\InstaWebApp.csproj": {
+    "F:\\2024-2025\\Eval\\Aspnet\\Eval\\InstaWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\2024-2025\\Formation-2024-2025\\Exemple\\InstaWebApp\\InstaWebApp.csproj",
+        "projectUniqueName": "F:\\2024-2025\\Eval\\Aspnet\\Eval\\InstaWebApp.csproj",
         "projectName": "InstaWebApp",
-        "projectPath": "F:\\2024-2025\\Formation-2024-2025\\Exemple\\InstaWebApp\\InstaWebApp.csproj",
+        "projectPath": "F:\\2024-2025\\Eval\\Aspnet\\Eval\\InstaWebApp.csproj",
         "packagesPath": "C:\\Users\\Aylines\\.nuget\\packages\\",
-        "outputPath": "F:\\2024-2025\\Formation-2024-2025\\Exemple\\InstaWebApp\\obj\\",
+        "outputPath": "F:\\2024-2025\\Eval\\Aspnet\\Eval\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
